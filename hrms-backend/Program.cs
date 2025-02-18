@@ -14,7 +14,7 @@ namespace hrms_backend
         public static void Main(string[] args)
         {
             //CreateHostBuilder(args).Build().Run();
-
+            // new comment
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
